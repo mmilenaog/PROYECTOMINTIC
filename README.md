@@ -1,7 +1,7 @@
 # Comienzo 🚀
 
 
-## INTEGRANTES
+## Integrantes
 
 |            correo              |   nombre   |       rol       |
 |--------------------------------|------------|-----------------|
@@ -11,6 +11,6 @@
 |     mmilenaog@hotmail.com      |      Milena|         Analista|
 | jcatalinabenavides@hotmail.com |    Catalina|     Scrum Master|
 
-## LINK REPOSITORIO
+## Link repositorio
 
-[repositorio](https://github.com/jimalaros/PROYECTOMINTIC).
+[repositorio](https://github.com/jimalaros/PROYECTOMINTIC)
