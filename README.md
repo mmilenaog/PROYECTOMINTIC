@@ -1,7 +1,7 @@
 # Comienzo 🚀
 
 
-# INTEGRANTES
+## INTEGRANTES
 
 |            correo              |   nombre   |       rol       |
 |--------------------------------|------------|-----------------|
@@ -10,3 +10,7 @@
 |    bdbastidas88@gmail.com      |       David|    Product Owner|
 |     mmilenaog@hotmail.com      |      Milena|         Analista|
 | jcatalinabenavides@hotmail.com |    Catalina|     Scrum Master|
+
+## LINK REPOSITORIO
+
+D[link](https://github.com/jimalaros/PROYECTOMINTIC).
