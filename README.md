@@ -13,4 +13,4 @@
 
 ## LINK REPOSITORIO
 
-D[link](https://github.com/jimalaros/PROYECTOMINTIC).
+[repositorio](https://github.com/jimalaros/PROYECTOMINTIC).
