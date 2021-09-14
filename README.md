@@ -1,5 +1,10 @@
 # Comienzo 🚀
 
+## Creación repositorio
+
+```
+git PROYECTOMINTIC
+```
 
 ## Integrantes
 
