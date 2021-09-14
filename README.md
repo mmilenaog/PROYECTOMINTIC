@@ -2,7 +2,7 @@
 
 ## Creación repositorio
 
-![Screenshot](branch.JPG)
+![Screenshot](branch1.JPG)
 ![Screenshot2](branch2.JPG)
 
 ## Integrantes
