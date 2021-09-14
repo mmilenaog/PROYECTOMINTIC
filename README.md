@@ -2,6 +2,8 @@
 
 ## Creación repositorio
 
+### Creación ramas
+
 ![Screenshot](branch1.JPG)
 ![Screenshot2](branch2.JPG)
 ![Screenshot3](Push1.JPG)
