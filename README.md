@@ -2,11 +2,8 @@
 
 ## Creación repositorio
 
-```
-git PROYECTOMINTIC
-```
-
 ![Screenshot](branch.JPG)
+![Screenshot2](branch2.JPG)
 
 ## Integrantes
 
