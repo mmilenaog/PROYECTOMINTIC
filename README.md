@@ -24,3 +24,7 @@
 ## Link repositorio
 
 [repositorio](https://github.com/jimalaros/PROYECTOMINTIC)
+
+## Link trello
+
+[trello](https://trello.com/b/7LCMouja/proyecto-software)
