@@ -6,6 +6,8 @@
 git PROYECTOMINTIC
 ```
 
+![Screenshot](screenshot.jpg)
+
 ## Integrantes
 
 |            correo              |   nombre   |       rol       |
