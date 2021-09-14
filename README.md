@@ -6,7 +6,7 @@
 git PROYECTOMINTIC
 ```
 
-![Screenshot](BRANCH.jpg)
+![Screenshot](branch.JPG)
 
 ## Integrantes
 
